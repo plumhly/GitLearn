@@ -1,2 +1,1 @@
-plum
-is person
+plumperson
