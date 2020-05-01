@@ -10,5 +10,3 @@ iss1
 new fature 2
 add new feature 3
 fix iss 94
-c5
-c6
